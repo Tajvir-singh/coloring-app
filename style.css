@@ -1,0 +1,32 @@
+.body_backgorund {
+    background-image: url("https://image.winudf.com/v2/image/Y29tLmNvbG9yZnVsd2FsbHBhcGVyLmhkLmNvbG9yZnVscGljdHVyZXMucGhvdG9zLmJhY2tncm91bmQuY3V0ZS5jb29sLmFydC5jb2xvcmZ1bGltYWdlcy5oZC5mcmVlX3NjcmVlbl8wXzE1MzM5NDQxOThfMDAx/screen-0.jpg?fakeurl=1&type=.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+body {
+    cursor: pointer;
+}
+
+h1 {
+    color: orange;
+    font-size: 40px;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+}
+
+input {
+    margin-right: 20px;
+}
